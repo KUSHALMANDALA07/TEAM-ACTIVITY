@@ -10,6 +10,7 @@ function App() {
     <>
       <h1>Kushal Mandala</h1>
       <h1>Chethan Regala</h1>
+      <h1> DEVAKIVADA Akul kartikeya </h1>
     </>
   )
 }
